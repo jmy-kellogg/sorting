@@ -1,3 +1,6 @@
+// faskjdhfjkasdhfjlkahsdfljkahsdfljkhasdf
+
+
 function split (array){
 	var halfLength= Math.floor(array.length/2);
 
